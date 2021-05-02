@@ -1,7 +1,3 @@
-I'm a Creative & Problem Solver Engineer who enjoys working in a fast-paced and changing environment.
-
-
-
 ### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> A little more about me...  👋
 ![](https://komarev.com/ghpvc/?username=darostegui)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/HPBZmwOe)
