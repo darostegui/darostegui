@@ -1,5 +1,6 @@
 ### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> A little more about me...  👋
 ![](https://komarev.com/ghpvc/?username=darostegui)
+[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/HPBZmwOe)
 [![Linkedin: darostegui](https://img.shields.io/badge/-darostegui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darostegui/)](https://www.linkedin.com/in/darostegui/)
 [![GitHub darostegui](https://img.shields.io/github/followers/darostegui?label=follow&style=social)](https://github.com/darostegui)
 [![My job](https://img.shields.io/badge/My%20job-Jive-success?style=flat-square&logo=github&logoColor=white)](https://www.jivesoftware.com/)
