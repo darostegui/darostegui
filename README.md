@@ -4,7 +4,7 @@
 [![Linkedin: darostegui](https://img.shields.io/badge/-darostegui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darostegui/)](https://www.linkedin.com/in/darostegui/)
 [![GitHub darostegui](https://img.shields.io/github/followers/darostegui?label=follow&style=social)](https://github.com/darostegui)
 [![My job](https://img.shields.io/badge/My%20job-Jive-success?style=flat-square&logo=github&logoColor=white)](https://www.jivesoftware.com/)
-![Browser](https://img.shields.io/badge/Browser-Chrome-success?style=flat-square&logo=google-chrome&logoColor=white)(https://google.com/chrome)
+[![Browser](https://img.shields.io/badge/Browser-Chrome-success?style=flat-square&logo=google-chrome&logoColor=white)](https://google.com/chrome)
 [![OS](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 
