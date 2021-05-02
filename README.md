@@ -15,7 +15,7 @@
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/darostegui)
