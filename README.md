@@ -1,3 +1,22 @@
+✔️16+ years of experience designing, implementing and supporting complex IT systems.
+✔️Expert knowledge of Internet protocols (HTTP, SMTP, DNS, IMAP) and administering the related services.
+✔️Strong knowledge of Authentication methods (LDAP, SSO with SAML, Kerberos, etc) and their
+troubleshooting.
+✔️Strong understanding of Linux, Bash & CyberSecurity.
+✔️Years of Experience in the E-commerce & Hosting Industry.
+
+I've worked with PHP, Java, Apache, Tomcat, Mysql, Postgresql, Plesk, API, Middleware, AWS, Kibana (ELK), New Relic, Burp Suit, Nmap, Metasploit, Cpanel, Jive Software, and many other amazing tools.
+
+I'm a Creative & Problem Solver Engineer who enjoys working in a fast-paced and changing environment.
+
+Professionally, I'm focused on:
+* Linux & Open-Source Tools
+* Networks & IT Hardware 💻
+* Automatization to prevent Toil
+* Cybersecurity 🛡️
+
+Remote System Administrator 💻 Sr System Administrator 💻 Sr. SysAdmin 💻 Linux System Administrator - JNCIA-DevOps (Juniper) 💻 
+
 ### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> A little more about me...  👋
 ![](https://komarev.com/ghpvc/?username=darostegui)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/HPBZmwOe)
