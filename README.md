@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Hi my name is [Diego](https://www.pronouncenames.com/mp3/476146_1435083372409.mp3){:target="_blank" rel="noopener"} ...  👋
+### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Hi my name is [Diego](https://www.pronouncenames.com/mp3/476146_1435083372409.mp3){:target="_blank"} ...  👋
 ![](https://komarev.com/ghpvc/?username=darostegui)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/HPBZmwOe)
 [![Linkedin: darostegui](https://img.shields.io/badge/-darostegui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darostegui/)](https://www.linkedin.com/in/darostegui/)
