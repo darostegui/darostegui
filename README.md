@@ -22,8 +22,6 @@
 [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/darostegui)
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on something amazing. I worked Remotely for more than 16 years!
 - 🏠 I’m currently living at Spain close to [Benidorm](https://en.visitbenidorm.es/).
 - 🌱 I’m currently learning Cybersecurity (CEH)
