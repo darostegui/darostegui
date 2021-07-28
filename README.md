@@ -38,4 +38,4 @@
 - ⚽ Soccer/Football: [Boca Juniors](https://en.wikipedia.org/wiki/Boca_Juniors)
 
 
-<img src="https://github.com/darostegui/darostegui/blob/main/octocat-moving.gif?raw=true" width="500" height="500" alt="Diego Miguel Arostegui Galarza">
+<img src="https://raw.githubusercontent.com/darostegui/darostegui/main/octocat-moving.gif" width="500" height="500" alt="Diego Miguel Arostegui Galarza">
