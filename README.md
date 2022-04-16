@@ -5,7 +5,7 @@
 [![GitHub darostegui](https://img.shields.io/github/followers/darostegui?label=follow&style=social)](https://github.com/darostegui)
 [![My job](https://img.shields.io/badge/My%20job-GitHub-success?style=flat-square&logo=github&logoColor=white)](https://www.GitHub.com/)
 [![Browser](https://img.shields.io/badge/Browser-Chrome-success?style=flat-square&logo=google-chrome&logoColor=white)](https://google.com/chrome)
-[![OS](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows)
+[![OS](https://img.shields.io/badge/OS-Monterrey-informational?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/monterey/)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 
 
@@ -13,6 +13,7 @@
 
 ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![PHP](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
@@ -24,7 +25,7 @@
 
 - 🔭 I’m currently working on something amazing. I worked Remotely for more than 16 years!
 - 🏠 I’m currently living at Spain close to [Benidorm](https://en.visitbenidorm.es/).
-- 🌱 I’m currently learning Cybersecurity (CEH)
+- 🌱 I’m currently learning Cybersecurity
 - 👯 I’m looking to collaborate on anything Open source.
 - 💬 Ask me about Jive Software and Linux System Administration (hosting)
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/darostegui/)
