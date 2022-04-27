@@ -29,7 +29,6 @@
 - 👯 I’m looking to collaborate on anything Open source.
 - 💬 Ask me about Jive Software and Linux System Administration (hosting)
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/darostegui/)
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Love to learn new things & I can code if my life depends on it.
 - Professionally, I'm focused on:
   * Linux & Open-Source Tools <img src="https://media.giphy.com/media/qbFGJjbTm0SPe/giphy.gif" width="20" height="20" alt="Linux Administrator">
