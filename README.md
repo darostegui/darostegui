@@ -24,8 +24,7 @@
 
 
 - 🔭 I’m currently working on something amazing. I worked Remotely for more than 16 years!
-- 🏠 I’m currently living at Spain close to [Benidorm](https://en.visitbenidorm.es/).
-- 🌱 I’m currently learning Cybersecurity
+- 🏠 I’m currently living in Spain close to [Benidorm](https://en.visitbenidorm.es/).
 - 👯 I’m looking to collaborate on anything Open source.
 - 💬 Ask me about Jive Software and Linux System Administration (hosting)
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/darostegui/)
