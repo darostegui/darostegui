@@ -22,6 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/darostegui)
 
+<img src="https://raw.githubusercontent.com/darostegui/darostegui/main/octocat-moving.gif" width="320" height="320" alt="Diego Miguel Arostegui Galarza" align='left'>
 
 - 🔭 I’m currently working on something amazing. I worked Remotely for more than 16 years!
 - 🏠 I’m currently living in Spain close to [Benidorm](https://en.visitbenidorm.es/).
@@ -30,11 +31,10 @@
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/darostegui/)
 - ⚡ Fun fact: Love to learn new things & I can code if my life depends on it.
 - Professionally, I'm focused on:
-  * Linux & Open-Source Tools <img src="https://media.giphy.com/media/qbFGJjbTm0SPe/giphy.gif" width="20" height="20" alt="Linux Administrator">
-  * Networks & IT Hardware 💻
-  * Cybersecurity 🛡️
+   - Linux & Open-Source Tools <img src="https://media.giphy.com/media/qbFGJjbTm0SPe/giphy.gif" width="20" height="20" alt="Linux Administrator">
+   - Networks & IT Hardware 💻
+   - Cybersecurity 🛡️
 - ☕️ I love coffee & [Mate](https://en.wikipedia.org/wiki/Yerba_mate).
 - ⚽ Soccer/Football: [Boca Juniors](https://en.wikipedia.org/wiki/Boca_Juniors)
 
 
-<img src="https://raw.githubusercontent.com/darostegui/darostegui/main/octocat-moving.gif" width="500" height="500" alt="Diego Miguel Arostegui Galarza">
