@@ -24,7 +24,7 @@
 
 <img src="https://raw.githubusercontent.com/darostegui/darostegui/main/octocat-moving.gif" width="320" height="320" alt="Diego Miguel Arostegui Galarza" align='left'>
 
-- 🔭 I’m currently working on something amazing. I worked Remotely for more than 16 years!
+- 🔭 I’m currently working on something amazing. I worked Remotely for more than 20 years!
 - 🏠 I’m currently living in Spain close to [Benidorm](https://en.visitbenidorm.es/).
 - 👯 I’m looking to collaborate on anything Open source.
 - 💬 Ask me about GitHub and Linux System Administration.
