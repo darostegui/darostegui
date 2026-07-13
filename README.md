@@ -66,6 +66,7 @@
 - 🏠 I live in **L'Alfas del Pi (Alicante), Spain** — near [Benidorm](https://en.visitbenidorm.es/) — with **25 years of remote experience from Spain &amp; Argentina** 🇪🇸🇦🇷.
 - 💬 Ask me about **GitHub Enterprise**, **Linux System Administration** &amp; **SRE/CRE**.
 - 🛡️ Focused on: Site/Customer Reliability Engineering, Linux &amp; open-source, Cybersecurity (SAML, Kerberos, LDAP), and Cloud/DevOps (AWS, Azure, Kubernetes).
+- 🤖 Building amazing things with **AI assistance** — GitHub Copilot &amp; agentic workflows to automate toil and move faster.
 - 🌐 Personal site: [diegoarostegui.com](https://diegoarostegui.com/) • 📫 [LinkedIn](https://www.linkedin.com/in/darostegui/)
 - ⚡ Fun fact: Love to learn new things.
 - ☕️ I love coffee &amp; [Mate](https://en.wikipedia.org/wiki/Yerba_mate).
