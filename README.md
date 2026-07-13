@@ -5,12 +5,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=2A8&center=true&vCenter=true&width=560&lines=Senior+Customer+Reliability+Engineer+%40+GitHub;Linux+Architect+%26+Open-Source+enthusiast;SRE+%2F+CRE+%7C+Cybersecurity+%7C+Cloud;25+years+remote+%E2%98%95+from+Spain" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=2A8&center=true&vCenter=true&width=720&lines=Senior+Customer+Reliability+Engineer+%40+GitHub;Linux+Architect+%26+Open-Source+enthusiast;SRE+%2F+CRE+%7C+Cybersecurity+%7C+Cloud;25+years+remote+%E2%98%95+from+Spain+%26+Argentina" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darostegui&label=Profile%20views&color=2a8&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=darostegui&label=Profile%20views&color=2aa889&style=flat-square" alt="profile views" />
   <a href="https://mailhide.io/e/HPBZmwOe"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://www.linkedin.com/in/darostegui/"><img src="https://img.shields.io/badge/-darostegui-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="https://github.com/darostegui"><img src="https://img.shields.io/github/followers/darostegui?label=follow&style=social" alt="followers" /></a>
@@ -63,11 +63,11 @@
 
 - 🔭 **Senior Customer Reliability Engineer @ GitHub** — leading resolution of highly escalated, complex technical issues.
 - 🧑‍🏫 I mentor &amp; train teammates on squad-specific functional and technical knowledge.
-- 🏠 I live in **L'Alfas del Pi (Alicante), Spain** — near [Benidorm](https://en.visitbenidorm.es/) — with **25 years of remote experience**.
+- 🏠 I live in **L'Alfas del Pi (Alicante), Spain** — near [Benidorm](https://en.visitbenidorm.es/) — with **25 years of remote experience from Spain &amp; Argentina** 🇪🇸🇦🇷.
 - 💬 Ask me about **GitHub Enterprise**, **Linux System Administration** &amp; **SRE/CRE**.
 - 🛡️ Focused on: Site/Customer Reliability Engineering, Linux &amp; open-source, Cybersecurity (SAML, Kerberos, LDAP), and Cloud/DevOps (AWS, Azure, Kubernetes).
 - 🌐 Personal site: [diegoarostegui.com](https://diegoarostegui.com/) • 📫 [LinkedIn](https://www.linkedin.com/in/darostegui/)
-- ⚡ Fun fact: Love to learn new things &amp; I can code if my life depends on it.
+- ⚡ Fun fact: Love to learn new things.
 - ☕️ I love coffee &amp; [Mate](https://en.wikipedia.org/wiki/Yerba_mate).
 - ⚽ Soccer/Football: [Boca Juniors](https://en.wikipedia.org/wiki/Boca_Juniors)
 
