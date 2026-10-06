@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=2A8&center=true&vCenter=true&width=720&lines=Senior+Customer+Reliability+Engineer+%40+GitHub;Linux+Architect+%26+Open-Source+enthusiast;SRE+%2F+CRE+%7C+Cybersecurity+%7C+Cloud;25+years+remote+%E2%98%95+from+Spain+%26+Argentina" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=2A8&center=true&vCenter=true&width=720&lines=Staff+Customer+Reliability+Engineer+%40+GitHub;Linux+Architect+%26+Open-Source+enthusiast;SRE+%2F+CRE+%7C+Cybersecurity+%7C+Cloud;25+years+remote+%E2%98%95+from+Spain+%26+Argentina" alt="Typing SVG" />
   </a>
 </p>
 
@@ -61,7 +61,7 @@
 
 ### 👨‍💻 About me
 
-- 🔭 **Senior Customer Reliability Engineer @ GitHub** — leading resolution of highly escalated, complex technical issues.
+- 🔭 **Staff Customer Reliability Engineer @ GitHub** — leading resolution of highly escalated, complex technical issues.
 - 🧑‍🏫 I mentor &amp; train teammates on squad-specific functional and technical knowledge.
 - 🏠 I live in **L'Alfas del Pi (Alicante), Spain** — near [Benidorm](https://en.visitbenidorm.es/) — with **25 years of remote experience from Spain &amp; Argentina** 🇪🇸🇦🇷.
 - 💬 Ask me about **GitHub Enterprise**, **Linux System Administration** &amp; **SRE/CRE**.
